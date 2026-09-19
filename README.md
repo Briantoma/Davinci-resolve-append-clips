@@ -13,8 +13,8 @@ Generated with Claude.
 
 Don't hesitate to reach out for bugs and feature requests.
 
-<img src="docs/Append It_1.jpg" alt="The Append It window" width="570">
-<img src="docs/Append It_2.jpg" alt="The Append It window" width="570">
+<img src="Docs/Append It_1.jpg" alt="The Append It window" width="570">
+<img src="Docs/Append_It_2.jpg" alt="The Append It color picker window" width="570">
 
 ## Requirements
 
