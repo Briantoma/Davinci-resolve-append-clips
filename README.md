@@ -80,6 +80,10 @@ and the standard camera letter colours they are matched against.
 Everything except the preview is remembered in `append_it_settings.json`,
 written next to the script. The file is per user, not per project.
 
+### Headless use
+
+You can modify the script itself to make it run headless. Change SHOW_GUI = 1 to 0 in the script file to turn the GUI off. Turn it back to 1 to make the GUI visible again.
+
 ## How it places clips
 
 Worth knowing if you read the code and wonder why it is not simpler.
